@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "----",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "twitternamespace_RootManageSharedAccessKey_EVENTHUB": "--",
+    "NEWS_API_KEY": "----",
+    "BLOB_CONN_STR": "--",
+    "NEWS_CONTAINER_NAME": "--",
+    "EVENT_HUB": "--",
+    "EVENT_HUB_CONN_STR" : "--"
+    
+  }
+}
